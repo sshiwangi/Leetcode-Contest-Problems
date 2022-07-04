@@ -1,4 +1,5 @@
-/*
+/* Problem Link: https://leetcode.com/contest/weekly-contest-300/problems/decode-the-message/
+
 You are given the strings key and message, which represent a cipher key and a secret message, respectively. The steps to decode message are as follows:
 
 Use the first appearance of all 26 lowercase English letters in key as the order of the substitution table.
